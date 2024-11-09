@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/All_Factors/All_Factors.iml" filepath="$PROJECT_DIR$/All_Factors/All_Factors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank_account/Bank_account.iml" filepath="$PROJECT_DIR$/Bank_account/Bank_account.iml" />
       <module fileurl="file://$PROJECT_DIR$/Barking Dog/Barking Dog.iml" filepath="$PROJECT_DIR$/Barking Dog/Barking Dog.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Converter/Converter.iml" filepath="$PROJECT_DIR$/Converter/Converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Digit_Sum_Challenge/Digit_Sum_Challenge.iml" filepath="$PROJECT_DIR$/Digit_Sum_Challenge/Digit_Sum_Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Equalsumchecker/Equalsumchecker.iml" filepath="$PROJECT_DIR$/Equalsumchecker/Equalsumchecker.iml" />
