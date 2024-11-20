@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/Converter/Converter.iml" filepath="$PROJECT_DIR$/Basics/Converter/Converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/OOP/Cylinder/Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Digit_Sum_Challenge/Digit_Sum_Challenge.iml" filepath="$PROJECT_DIR$/Basics/Digit_Sum_Challenge/Digit_Sum_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Encapsulation_Challenge/Encapsulation_Challenge.iml" filepath="$PROJECT_DIR$/OOP/Encapsulation_Challenge/Encapsulation_Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Equalsumchecker/Equalsumchecker.iml" filepath="$PROJECT_DIR$/Basics/Equalsumchecker/Equalsumchecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Even_Digit_Sum/Even_Digit_Sum.iml" filepath="$PROJECT_DIR$/Basics/Even_Digit_Sum/Even_Digit_Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/FirstandLastDigitSum/FirstandLastDigitSum.iml" filepath="$PROJECT_DIR$/Basics/FirstandLastDigitSum/FirstandLastDigitSum.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/Perfect_Number/Perfect_Number.iml" filepath="$PROJECT_DIR$/Basics/Perfect_Number/Perfect_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Person/Person.iml" filepath="$PROJECT_DIR$/OOP/Person/Person.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/PersonenInformation/PersonenInformation.iml" filepath="$PROJECT_DIR$/Basics/PersonenInformation/PersonenInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Player/Player.iml" filepath="$PROJECT_DIR$/OOP/Player/Player.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Point/Point.iml" filepath="$PROJECT_DIR$/OOP/Point/Point.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Pool_Area/Pool_Area.iml" filepath="$PROJECT_DIR$/OOP/Pool_Area/Pool_Area.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/Basics/ReadingUserInput/ReadingUserInput.iml" />
