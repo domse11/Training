@@ -18,5 +18,5 @@ public class Mitsubishi extends Car {
     public void brake() {
         System.out.println("Mitsubishi -> is braking");
     }
-    
+
 }
