@@ -12,13 +12,13 @@ public class Timezones {
 
         // Get the current time in Austria
         austriatime = ZonedDateTime.now(ZoneId.of("Europe/Vienna"));
-        DateTimeFormatter austriaFormatter = DateTimeFormatter.ofPattern("HH:mm:ss, EEEE");
-        System.out.println("Time in Austria: " + austriatime.format(austriaFormatter));
+        DateTimeFormatter austriaFormatter = DateTimeFormatter.ofPattern("HH:mm, EEEE");
+
 
         System.out.println("Enter the city name (e.g., Los Angeles, Tokyo, London): ");
         String city = scanner.nextLine().toLowerCase();
-
-        String timeZone = null;
+        System.out.println("Time in Austria: " + austriatime.format(austriaFormatter));
+        String timeZone;
 
         // Map city names to time zones
         switch (city) {
@@ -50,8 +50,8 @@ public class Timezones {
 
         // Get the current time in the selected time zone
         ZonedDateTime cityTime = ZonedDateTime.now(ZoneId.of(timeZone));
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss, EEEE");
-        System.out.println("The current time in " + city + " is: " + cityTime.format(formatter));
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm, EEEE");
+        System.out.println("Time in " + city + ": " + cityTime.format(formatter));
 
         // Calculate the time difference using UTC offsets
         int austriaOffset = austriatime.getOffset().getTotalSeconds() / 3600; // Offset in hours
@@ -59,6 +59,6 @@ public class Timezones {
         int timeDifference = cityOffset - austriaOffset;
 
         // Print the time difference
-        System.out.printf("Time difference between Austria and %s: %d hours%n", city, timeDifference);
+        System.out.printf("Time difference between austria and %s: %d hours", city, timeDifference);
     }
 }
