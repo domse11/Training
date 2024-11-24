@@ -5,8 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         int[] unsortedArray = {106, 26, 81, 5, 15};
-        getIntegers(unsortedArray);
-        int[] sortedArray = unsortedArray;
+        int[] sortedArray = getIntegers(unsortedArray);
         System.out.println("_".repeat(50));
         int[] descsortedarray = sortIntegers(sortedArray);
         printArray(descsortedarray);
@@ -17,9 +16,7 @@ public class Main {
         for (int i = 0; i < sortedArray.length; i++) {
             System.out.println("Element " + i + " contents " + sortedArray[i]);
         }
-
     }
-
 
     public static int[] getIntegers(int[] unsortedArray) {
         Scanner scanner = new Scanner(System.in);
