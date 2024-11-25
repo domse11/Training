@@ -22,7 +22,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         for (int i = 0; i < 5; i++) {
-            // why 5 ? array starts at 0, we want 5 numbers which means 0 -> 4 = 5
+            // why 5 ? array starts at 0, we want 5 numbers which means 0 -> 4 = 5, arraylength is also a possibility
             System.out.println("Enter a Number");
             unsortedArray[i] = scanner.nextInt();
         }
@@ -32,6 +32,7 @@ public class Main {
     }
 
     public static int[] sortIntegers(int[] unsortedArray) {
+
         System.out.println("Array before sorting " + Arrays.toString(unsortedArray));
         int[] sortedArray = Arrays.copyOf(unsortedArray, unsortedArray.length);
         boolean flag = true;
