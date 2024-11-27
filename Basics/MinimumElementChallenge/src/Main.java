@@ -4,8 +4,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.println("Enter the numbers for the array: ");
         String input = sc.nextLine();
+
         String[] StringArray = input.split(",");
 
         int[] numbers = new int[StringArray.length];
@@ -23,7 +25,6 @@ public class Main {
 
         int maxIndex = array.length - 1;
         int halfLength = array.length / 2;
-
 
         for (int i = 0; i < halfLength; i++) {
             int temp = array[i];
