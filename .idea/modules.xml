@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basics/All_Factors/All_Factors.iml" filepath="$PROJECT_DIR$/Basics/All_Factors/All_Factors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/ArrayAndArrayLists/ArrayAndArrayLists.iml" filepath="$PROJECT_DIR$/Basics/ArrayAndArrayLists/ArrayAndArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/Basics/ArrayListChallenge/ArrayListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Basics/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Bank_account/Bank_account.iml" filepath="$PROJECT_DIR$/Basics/Bank_account/Bank_account.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Barking Dog/Barking Dog.iml" filepath="$PROJECT_DIR$/Basics/Barking Dog/Barking Dog.iml" />
