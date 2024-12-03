@@ -33,7 +33,7 @@ public class Main {
                         groceryList();
                         break;
                     default:
-                        System.out.println("Invalid choice, programm is exiting");
+                        System.out.println("Invalid choice");
                 }
             } catch (NumberFormatException e) {
                 System.out.println("Invalid choice");
