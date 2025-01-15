@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP/AbstractChallenge/AbstractChallenge.iml" filepath="$PROJECT_DIR$/OOP/AbstractChallenge/AbstractChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Abstractclasses/Abstractclasses.iml" filepath="$PROJECT_DIR$/OOP/Abstractclasses/Abstractclasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/All_Factors/All_Factors.iml" filepath="$PROJECT_DIR$/Basics/All_Factors/All_Factors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/ArrayAndArrayLists/ArrayAndArrayLists.iml" filepath="$PROJECT_DIR$/Basics/ArrayAndArrayLists/ArrayAndArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/Basics/ArrayListChallenge/ArrayListChallenge.iml" />
@@ -20,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/OOP/Cylinder/Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Digit_Sum_Challenge/Digit_Sum_Challenge.iml" filepath="$PROJECT_DIR$/Basics/Digit_Sum_Challenge/Digit_Sum_Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Encapsulation_Challenge/Encapsulation_Challenge.iml" filepath="$PROJECT_DIR$/OOP/Encapsulation_Challenge/Encapsulation_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Enums/Enums.iml" filepath="$PROJECT_DIR$/Basics/Enums/Enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Equalsumchecker/Equalsumchecker.iml" filepath="$PROJECT_DIR$/Basics/Equalsumchecker/Equalsumchecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Even_Digit_Sum/Even_Digit_Sum.iml" filepath="$PROJECT_DIR$/Basics/Even_Digit_Sum/Even_Digit_Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/FamilyFriends/FamilyFriends.iml" filepath="$PROJECT_DIR$/OOP/FamilyFriends/FamilyFriends.iml" />
