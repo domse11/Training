@@ -30,7 +30,7 @@ record Dragonflight(String name, String type) implements FlightEnabled {
 }
 
 
-class Satellite implements OrbitEarth {
+abstract class Satellite implements OrbitEarth {
 
     public void archieveOrbit() {
         System.out.println("Orbit achieved!");
