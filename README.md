@@ -9,6 +9,7 @@ Hier teste ich gezielt neue Konzepte, vertiefe bestehendes Wissen und arbeite mi
 
 Obwohl ich bereits beruflich als Java Developer tätig war, nutze ich dieses Repository, um mich kontinuierlich weiterzuentwickeln – nach dem Motto: **Learning by doing.**
 
+- Kurs Inhalte coden
 - Neue Libraries und Frameworks ausprobieren
 - Best Practices festigen
 - Architekturmuster und Codequalität verbessern
