@@ -14,7 +14,7 @@ Obwohl ich bereits beruflich als Java Developer tätig war, nutze ich dieses Rep
 - Architekturmuster und Codequalität verbessern
 - Saubere Projektstruktur trainieren
 
---
+---
 
 ## 📌 Hinweis
 
