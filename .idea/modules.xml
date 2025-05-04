@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Basics/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Bank_account/Bank_account.iml" filepath="$PROJECT_DIR$/Basics/Bank_account/Bank_account.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Barking Dog/Barking Dog.iml" filepath="$PROJECT_DIR$/Basics/Barking Dog/Barking Dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Basic OOP Stuff/Basic OOP Stuff.iml" filepath="$PROJECT_DIR$/OOP/Basic OOP Stuff/Basic OOP Stuff.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Bills_Burger_Challenge/Bills_Burger_Challenge.iml" filepath="$PROJECT_DIR$/OOP/Bills_Burger_Challenge/Bills_Burger_Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Basics/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Carpet_Cost_Calculator/Carpet_Cost_Calculator.iml" filepath="$PROJECT_DIR$/OOP/Carpet_Cost_Calculator/Carpet_Cost_Calculator.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/Even_Digit_Sum/Even_Digit_Sum.iml" filepath="$PROJECT_DIR$/Basics/Even_Digit_Sum/Even_Digit_Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/FamilyFriends/FamilyFriends.iml" filepath="$PROJECT_DIR$/OOP/FamilyFriends/FamilyFriends.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/FirstandLastDigitSum/FirstandLastDigitSum.iml" filepath="$PROJECT_DIR$/Basics/FirstandLastDigitSum/FirstandLastDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/Basics/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Flour_Pack_Problem/Flour_Pack_Problem.iml" filepath="$PROJECT_DIR$/Basics/Flour_Pack_Problem/Flour_Pack_Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/GeradeUngereadeChecker/GeradeUngereadeChecker.iml" filepath="$PROJECT_DIR$/Basics/GeradeUngereadeChecker/GeradeUngereadeChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Greatest_Common_Divisor/Greatest_Common_Divisor.iml" filepath="$PROJECT_DIR$/Basics/Greatest_Common_Divisor/Greatest_Common_Divisor.iml" />
@@ -52,6 +54,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/NumberinWord/NumberinWord.iml" filepath="$PROJECT_DIR$/Basics/NumberinWord/NumberinWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Overloadmethodchallenge/Overloadmethodchallenge.iml" filepath="$PROJECT_DIR$/Basics/Overloadmethodchallenge/Overloadmethodchallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Paint_Job/Paint_Job.iml" filepath="$PROJECT_DIR$/Basics/Paint_Job/Paint_Job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Basics/Palindrome/Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Perfect_Number/Perfect_Number.iml" filepath="$PROJECT_DIR$/Basics/Perfect_Number/Perfect_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Person/Person.iml" filepath="$PROJECT_DIR$/OOP/Person/Person.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/PersonenInformation/PersonenInformation.iml" filepath="$PROJECT_DIR$/Basics/PersonenInformation/PersonenInformation.iml" />
@@ -64,6 +67,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/Basics/ReadingUserInput/ReadingUserInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Reading_User_Input_Challenge/Reading_User_Input_Challenge.iml" filepath="$PROJECT_DIR$/Basics/Reading_User_Input_Challenge/Reading_User_Input_Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/RechteckBerechnung/RechteckBerechnung.iml" filepath="$PROJECT_DIR$/Basics/RechteckBerechnung/RechteckBerechnung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/ReverseNumber/ReverseNumber.iml" filepath="$PROJECT_DIR$/Basics/ReverseNumber/ReverseNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/SecondsandMinutes/SecondsandMinutes.iml" filepath="$PROJECT_DIR$/Basics/SecondsandMinutes/SecondsandMinutes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Shared_Digit/Shared_Digit.iml" filepath="$PROJECT_DIR$/Basics/Shared_Digit/Shared_Digit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/SortedArray/SortedArray.iml" filepath="$PROJECT_DIR$/Basics/SortedArray/SortedArray.iml" />
