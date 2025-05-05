@@ -18,6 +18,9 @@ public class Main {
         System.out.println(istVolljaehrig(18));
 
         bewerteNote(0);
+        bewerteNote(5);
+
+        System.out.println(bewertenoteswitch(1));
 
     }
 
@@ -81,6 +84,19 @@ public class Main {
             System.out.println("Ungültig");
         }
         return Note;
+    }
+
+    public static String bewertenoteswitch(int note){
+        return switch (note){
+            case 1 -> "Sehr gut";
+            case 2 -> "Gut";
+            case 3 -> "Befriedigend";
+            case 4 -> "Genügend";
+            case 5 -> "Nicht Genügend";
+            default -> "Ungültig";
+        };
+
+
     }
 
 
